@@ -1,8 +1,7 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&width=600&lines=Hi%2C+I%27m+N1709;Android+%26+Linux+tinkerer;Open-source+enthusiast;Welcome+to+my+GitHub!)
+
 # 💫 About Me:
 Full name : Kentaro Aldanatien Ramadhan <br>Country : Indonesia <br>Ambition : Web developer <br>#I'm a beginner and I'm still learning 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&lines=Halo+Saya+NK+Bob;Selamat+Datang+di+Profil+Saya)](https://git.io/typing-svg)
-
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram)](https://t.me/ABCDEFGHIJKLMNOPQRSTUFWXYZ000000)

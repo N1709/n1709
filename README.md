@@ -3,6 +3,7 @@ Full name : Kentaro Aldanatien Ramadhan <br>Country : Indonesia <br>Ambition : W
 
 
 ## 🌐 Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram)](https://t.me/ABCDEFGHIJKLMNOPQRSTUFWXYZ000000)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@N1709-s1i) 
 
 # 💻 Tech Stack:

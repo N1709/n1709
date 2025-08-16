@@ -1,7 +1,3 @@
-![Foto](https://t.me/snakakjsshnwwmapqpqpnwmdslpa/2)
-![Alt Text](https://t.me/snakakjsshnwwmapqpqpnwmdslpa/3)
-
-
 
 # 💫 About Me:
 Full name : Kentaro Aldanatien Ramadhan <br>Country : Indonesia <br>Ambition : Web developer <br>#I'm a beginner and I'm still learning 

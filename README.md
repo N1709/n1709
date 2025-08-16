@@ -1,4 +1,6 @@
 ![Foto](https://t.me/snakakjsshnwwmapqpqpnwmdslpa/2)
+![Alt Text](https://t.me/snakakjsshnwwmapqpqpnwmdslpa/3)
+
 
 
 # 💫 About Me:

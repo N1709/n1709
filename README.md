@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=FFFFFF&lines=Hello%2C+I%27m+N1709;Welcome+to+my+profile)
+![Foto](https://t.me/snakakjsshnwwmapqpqpnwmdslpa/2)
 
 
 # 💫 About Me:

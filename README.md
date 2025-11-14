@@ -14,4 +14,4 @@
 | Realme 6                | RM6785                                  |
 
 ## NOTES 📝
-### Stay patient and become a better person
+### Stay patient and become a better person.

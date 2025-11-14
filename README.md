@@ -8,7 +8,8 @@
 | :---------------------- | :---------------------------------------|
 | Xiaomi Redmi 5          | ROSY                                    |
 | Xiaomi Redmi Note 5 Pro | WHYRED                                  |
-| Samsung Galaxy A11/M11  | EXYNOS8895                              |
-| Samsung Galaxy A01/M01  | SM-A11F/SM-M11F                         |
+| Samsung Galaxy A11/M11  | SM-A11F/SM-M11F                         |
+| Samsung Galaxy A01/M01  | SM-A01F/SM-M01F                         |
 | Samsung Galaxy S8+/S8/N8| EXYNOS8895                              |
 | Realme 6                | RM6785                                  |
+

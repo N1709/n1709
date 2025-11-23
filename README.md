@@ -7,6 +7,8 @@
 | Device Name             | Code Name                               |
 | :---------------------- | :---------------------------------------|
 | Xiaomi Redmi 5          | ROSY                                    |
+| Xiaomi Redmi 4A         | ROLEX                                   |
+| Xiaomi Redmi 3 Pro      | IDO                                     |
 | Xiaomi Redmi Note 5 Pro | WHYRED                                  |
 | Xiaomi Redmi Note 3 Pro | KENZO                                   |
 | Samsung Galaxy A11/M11  | SM-A11F/SM-M11F                         |

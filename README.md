@@ -11,4 +11,4 @@
 | Samsung Galaxy A11/M11  | SM-A11F/SM-M11F                         |
 | Samsung Galaxy A01/M01  | SM-A01F/SM-M01F                         |
 | Samsung Galaxy S8+/S8/N8| EXYNOS8895                              |
-| Realme 6                | RM6785                                  |
+| Realme 5 Pro                | RMX1971                                  |

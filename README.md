@@ -11,7 +11,7 @@
 | Xiaomi Redmi 3 Pro      | IDO                                     |
 | Xiaomi Redmi Note 5 Pro | WHYRED                                  |
 | Xiaomi Redmi Note 3 Pro | KENZO                                   |
-| Xiaomi Pocophone F1     | BERYLLIUM                               |
+| Xiaomi Mi A3            | LAUREL_SPROUT                           |
 | Samsung Galaxy A11/M11  | SM-A11F/SM-M11F                         |
 | Samsung Galaxy A01/M01  | SM-A01F/SM-M01F                         |
 | Samsung Galaxy S8+/S8/N8| EXYNOS8895                              |

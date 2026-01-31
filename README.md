@@ -147,6 +147,7 @@ class NKB0B:
 
 <div align="center">
 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-25.10-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian 13](https://img.shields.io/badge/Debian_13-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Android 16](https://img.shields.io/badge/Android_16-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android 14](https://img.shields.io/badge/Android_14-3DDC84?style=for-the-badge&logo=android&logoColor=white)

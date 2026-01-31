@@ -48,7 +48,7 @@ class NKB0B:
 </td>
 <td align="center" width="25%">
 
-### 📱 Redmi 5
+### 📱 Xiaomi Redmi 5
 **Codename:** `rosy`
 
 ![Redmi 5](https://img.shields.io/badge/Status-Reviving-blueviolet?style=for-the-badge)
@@ -56,7 +56,7 @@ class NKB0B:
 </td>
 <td align="center" width="25%">
     
-### 📱 Redmi Note 5 Pro
+### 📱 Xiaomi Redmi Note 5 Pro
 **Codename:** `whyred`
 
 ![Redmi Note 5 Pro](https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge)
@@ -67,10 +67,19 @@ class NKB0B:
 <tr>
 <td align="center" width="25%">
 
-### 📱 Redmi 4A
+### 📱 Xiaomi Redmi Note 3 Pro
+**Codename:** `Kenzo`
+
+![Redmi Note 3 Pro](https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge)
+
+</td>
+<td align="center" width="25%">
+
+### 📱 Xiaomi Redmi 4a
 **Codename:** `rolex`
 
-![Redmi 4A](https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge)
+![Redmi 4a](https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge)
+
 
 </td>
 <td align="center" width="25%">

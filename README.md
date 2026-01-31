@@ -2,7 +2,7 @@
 
 # Hi 👋, it's me
 
-### Solo Developer 
+### Solo Developer.
 
 </div>
 

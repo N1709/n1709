@@ -68,18 +68,17 @@ class NKB0B:
 <td align="center" width="25%">
 
 ### 📱 Xiaomi Redmi Note 3 Pro
-**Codename:** `Kenzo`
+**Codename:** `kenzo`
 
 ![Redmi Note 3 Pro](https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge)
 
 </td>
 <td align="center" width="25%">
 
-### 📱 Xiaomi Redmi 4a
+### 📱 Xiaomi Redmi 4A
 **Codename:** `rolex`
 
-![Redmi 4a](https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge)
-
+![Redmi 4A](https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge)
 
 </td>
 <td align="center" width="25%">
@@ -98,12 +97,8 @@ class NKB0B:
 ![Galaxy A01](https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge)
 
 </td>
-<td align="center" width="25%">
-
-</td>
 </tr>
 </table>
-
 
 ---
 

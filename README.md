@@ -8,7 +8,7 @@
 
 ---
 
-## 🪪 About Me
+## ✨ About Me
 ```python
 class NKB0B:
     def __init__(self):

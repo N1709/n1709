@@ -12,7 +12,7 @@
 ```python
 class NKB0B:
     def __init__(self):
-        self.name = "Kentaro Aldanatien Ramadhan"
+        self.full_name = "Kentaro aldanatien ramadhan"
         self.username = "N1709"
         self.location = "Indonesia"
         self.passion = ["Android Development", "Custom ROM Building"]

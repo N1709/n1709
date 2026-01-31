@@ -36,7 +36,7 @@ class NKB0B:
 ### 📱 Xiaomi Redmi 5
 **Codename:** `rosy`
 
-![Redmi 5](https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge)
+![Redmi 5](https://img.shields.io/badge/Status-Reviving-blueviolet?style=for-the-badge)
 
 </td>
 <td align="center" width="33%">
@@ -44,7 +44,7 @@ class NKB0B:
 ### 📱 Xiaomi Redmi Note 10
 **Codename:** `sunny/mojito`
 
-![Redmi Note 10](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Redmi Note 10](https://img.shields.io/badge/Status-Reviving-blueviolet?style=for-the-badge)
 
 </td>
 <td align="center" width="33%">
@@ -64,13 +64,17 @@ class NKB0B:
 
 <div align="center">
 
-### 🤖 EunoiaOS Development
+### 🤖 Maintaining
 
 </div>
 
 <div align="center">
 
-![EunoiaOS](https://img.shields.io/badge/EunoiaOS-00D856?style=for-the-badge&logo=android&logoColor=white)
+<a href="https://github.com/EunoiaOS">
+  <img src="assets/eunoia-logo.png" alt="EunoiaOS" width="40" style="vertical-align: middle;"/> 
+  <img src="https://img.shields.io/badge/EUNOIAOS-00D856?style=for-the-badge" alt="EunoiaOS" style="vertical-align: middle;"/>
+</a>
+
 ![AOSP](https://img.shields.io/badge/AOSP-34A853?style=for-the-badge&logo=android&logoColor=white)
 
 </div>

@@ -61,10 +61,40 @@ class NKB0B:
 
 ![Redmi Note 5 Pro](https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge)
 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+
+### 📱 Redmi 4A
+**Codename:** `rolex`
+
+![Redmi 4A](https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge)
+
+</td>
+<td align="center" width="25%">
+
+### 📱 Samsung Galaxy S8
+**Codename:** `dreamlte`
+
+![Galaxy S8](https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge)
+
+</td>
+<td align="center" width="25%">
+
+### 📱 Samsung Galaxy A01
+**Codename:** `SM-A015F`
+
+![Galaxy A01](https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge)
+
+</td>
+<td align="center" width="25%">
 
 </td>
 </tr>
 </table>
+
 
 ---
 

@@ -102,7 +102,7 @@ class NKB0B:
 
 ---
 
-## 🛠️ Tech Stack & Working Environment
+## 🛠️ Tech Stack, Working Environment & Maintaining
 
 <div align="center">
 

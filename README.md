@@ -2,7 +2,7 @@
 
 # Hi 👋, it's me
 
-### I am a solo developer with a strong interest in Android development, which I pursue as a hobby.
+### Solo Developer 
 
 </div>
 

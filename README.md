@@ -1,4 +1,4 @@
-# Hi, I'm Kentaro Aldanatien Ramadhan Aka NKB0B 👋
+# Hi, I'm Kentaro Aka NKB0B 👋
 
 ### ✨ **Activity:**
 I'm a **Solo Developer** with a passion for Android development. I spend most of my time **port and building Custom ROMs** to enhance device performance and user experience.

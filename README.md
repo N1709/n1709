@@ -5,6 +5,7 @@ I'm a **Solo Developer** with a passion for Android development. I spend most of
 
 ### 📱 **Experimental Devices:**
 * **Xiaomi Redmi 5** (rosy) 
+* **Xiaomi Redmi Note 10** (sunny/mojito) 
 * **Xiaomi Mi A3** (laurel_sprout) 
 
  ### 📬 **You can find me in:**

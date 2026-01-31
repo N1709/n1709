@@ -139,6 +139,7 @@ class NKB0B:
 <div align="center">
 
 ![Debian 13](https://img.shields.io/badge/Debian_13-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![iOS 26](https://img.shields.io/badge/iOS_26-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Android 16](https://img.shields.io/badge/Android_16-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android 14](https://img.shields.io/badge/Android_14-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 

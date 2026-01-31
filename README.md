@@ -2,7 +2,7 @@
 
 # Hi 👋, it's me
 
-### Solo Developer | Custom ROM Enthusiast
+### Solo Developer | I'm still a newbie
 
 </div>
 

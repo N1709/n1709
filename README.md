@@ -32,10 +32,10 @@ class NKB0B:
 <tr>
 <td align="center" width="25%">
 
-### 📱 Redmi Note 5 Pro
-**Codename:** `whyred`
+### 📱 Xiaomi Mi A3
+**Codename:** `laurel_sprout`
 
-![Redmi Note 5 Pro](https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge)
+![Mi A3](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 </td>
 <td align="center" width="25%">
@@ -55,11 +55,11 @@ class NKB0B:
 
 </td>
 <td align="center" width="25%">
+    
+### 📱 Redmi Note 5 Pro
+**Codename:** `whyred`
 
-### 📱 Xiaomi Mi A3
-**Codename:** `laurel_sprout`
-
-![Mi A3](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Redmi Note 5 Pro](https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge)
 
 
 </td>

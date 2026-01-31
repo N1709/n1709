@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, it's me (NKB0B)
+# Hi 👋, it's me
 
 ### Solo Developer | Custom ROM Enthusiast
 

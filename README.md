@@ -2,7 +2,7 @@
     
 # **Hi 👋, it's me**
 
-### Solo Developer
+### Solo Developer | Embedded Systems Enthusiast | Open Source Contributor | Firmware Modder
 
 </div>
 

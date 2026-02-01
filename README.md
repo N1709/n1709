@@ -8,7 +8,7 @@
 
 ---
 
-## ✨ About Me
+## About Me
 ```python
 class NKB0B:
     def __init__(self):
@@ -26,13 +26,13 @@ class NKB0B:
 
 ---
 
-## 🔥 Experimental Devices
+## Experimental Devices
 
 <table align="center">
 <tr>
 <td align="center" width="25%">
 
-### 📱 Xiaomi Mi A3
+### Xiaomi Mi A3
 **Codename:** `laurel_sprout`
 
 ![Mi A3](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
@@ -40,7 +40,7 @@ class NKB0B:
 </td>
 <td align="center" width="25%">
 
-### 📱 Xiaomi Redmi Note 10
+### Xiaomi Redmi Note 10
 **Codename:** `sunny/mojito`
 
 ![Redmi Note 10](https://img.shields.io/badge/Status-Reviving-blueviolet?style=for-the-badge)
@@ -48,7 +48,7 @@ class NKB0B:
 </td>
 <td align="center" width="25%">
 
-### 📱 Xiaomi Redmi 5
+### Xiaomi Redmi 5
 **Codename:** `rosy`
 
 ![Redmi 5](https://img.shields.io/badge/Status-Reviving-blueviolet?style=for-the-badge)
@@ -56,7 +56,7 @@ class NKB0B:
 </td>
 <td align="center" width="25%">
     
-### 📱 Xiaomi Redmi Note 5 Pro
+### Xiaomi Redmi Note 5 Pro
 **Codename:** `whyred`
 
 ![Redmi Note 5 Pro](https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge)
@@ -67,7 +67,7 @@ class NKB0B:
 <tr>
 <td align="center" width="25%">
 
-### 📱 Xiaomi Redmi Note 3 Pro
+### Xiaomi Redmi Note 3 Pro
 **Codename:** `kenzo`
 
 ![Redmi Note 3 Pro](https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge)
@@ -75,7 +75,7 @@ class NKB0B:
 </td>
 <td align="center" width="25%">
 
-### 📱 Xiaomi Redmi 4A
+### Xiaomi Redmi 4A
 **Codename:** `rolex`
 
 ![Redmi 4A](https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge)
@@ -83,7 +83,7 @@ class NKB0B:
 </td>
 <td align="center" width="25%">
 
-### 📱 Samsung Galaxy S8
+### Samsung Galaxy S8
 **Codename:** `dreamlte`
 
 ![Galaxy S8](https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge)
@@ -91,7 +91,7 @@ class NKB0B:
 </td>
 <td align="center" width="25%">
 
-### 📱 Samsung Galaxy A01
+### Samsung Galaxy A01
 **Codename:** `SM-A015F`
 
 ![Galaxy A01](https://img.shields.io/badge/Status-Inactive-red?style=for-the-badge)
@@ -102,11 +102,11 @@ class NKB0B:
 
 ---
 
-## 🛠️ Tech Stack, Working Environment & Maintaining
+## Tech Stack, Working Environment & Maintaining
 
 <div align="center">
 
-### 🤖 Official Maintaining
+### Official Maintaining
 
 </div>
 
@@ -117,7 +117,7 @@ class NKB0B:
 
 <div align="center">
 
-### 🔧 Build Tools
+### Build Tools
 
 </div>
 
@@ -141,7 +141,7 @@ class NKB0B:
 
 <div align="center">
 
-### 💻 Working Environment
+### Working Environment
 
 </div>
 
@@ -156,7 +156,7 @@ class NKB0B:
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -168,7 +168,7 @@ class NKB0B:
 
 ---
 
-## 💰 Support My Work
+## Support My Work
 
 <div align="center">
 

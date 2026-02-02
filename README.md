@@ -77,7 +77,7 @@ class NKB0B:
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/c21e725d-247a-45d4-a457-517b8b9656c6" height="28"/><img src="https://img.shields.io/badge/EUNOIAOS-89c583?style=for-the-badge"/>
+<img src="https://github.com/user-attachments/assets/28e71dd3-229b-449a-bd57-344ac78b7f77" height="28"/><img src="https://img.shields.io/badge/PIXELLINES-0a0a0a?style=for-the-badge" height="28"/><img src="https://github.com/user-attachments/assets/c21e725d-247a-45d4-a457-517b8b9656c6" height="28"/><img src="https://img.shields.io/badge/EUNOIAOS-89c583?style=for-the-badge"/>
 </div>
 
 <div align="center">

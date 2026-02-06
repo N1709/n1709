@@ -18,7 +18,7 @@ class NKB0B:
     
     def current_work(self):
         return [
-            "Building and Porting",
+            "Building, Porting, create tools.",
             "Enhancing device performance",
             "Improving user experience"
         ]

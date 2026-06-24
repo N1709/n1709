@@ -12,4 +12,4 @@ I am a Solo Developer driven by a **profound interest in Android System Developm
 - 🚀 **Focus:** Build and porting
 - 🌱 **Learning:** Strategically acquiring skills to meet current project demands.
 - ✨ **Interests:** Embedded Systems, Reverse Engineering, Kernel Development.
-- 📱 **Official Maintaining:** PixelLines and EunoiaOS
+- 📱 **Official Maintaining:** PixelLines, EunoiaOS And AetheriaOS

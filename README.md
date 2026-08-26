@@ -14,7 +14,7 @@
       -osssssso.      :ssssssso.         Hobbies: AOSP/System Development, Kernel Development, Game Dev
      :osssssss/        osssso+++.        Locale: id_ID.UTF-8
     /ossssssss/        +ssssooo/-        
-  `/ossssso+/:-        -:/+osssso+-      Notes: The things I do are hobbies.
+  `/ossssso+/:-        -:/+osssso+-      Notes: Everything I do is a hobby.
  `+sso+:-`                 `.-/+oso:
 `++:.                           `-/+/
 .`                                 `/

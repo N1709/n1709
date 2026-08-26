@@ -13,8 +13,8 @@
        .oossssso-````/ossssss+`          Eyes (Right): ~576MP, 120° FOV, ~60Hz [Built-in]
       -osssssso.      :ssssssso.         Hobbies: AOSP/System Development, Kernel Development, Game Dev
      :osssssss/        osssso+++.        Locale: id_ID.UTF-8
-    /ossssssss/        +ssssooo/-       
-  `/ossssso+/:-        -:/+osssso+-
+    /ossssssss/        +ssssooo/-        
+  `/ossssso+/:-        -:/+osssso+-      Notes: The things I do are hobbies.
  `+sso+:-`                 `.-/+oso:
 `++:.                           `-/+/
 .`                                 `/

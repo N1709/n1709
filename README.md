@@ -10,7 +10,7 @@
           `/++++++++++++++:              Battery: 10% [not asleep yet]
          `/+++ooooooooooooo/`            Eyes (Left): ~576MP, 120° FOV, ~60Hz [Built-in]
         ./ooosssso++osssssso+`           Eyes (Right): ~576MP, 120° FOV, ~60Hz [Built-in]
-       .oossssso-````/ossssss+`          Hobbies: AOSP/System Development, Game development, Firmware Port
+       .oossssso-````/ossssss+`          Hobbies: AOSP/System Development, Kernel Development, Game development
       -osssssso.      :ssssssso.         Locale: id_ID.UTF-8
      :osssssss/        osssso+++.        
     /ossssssss/        +ssssooo/-       

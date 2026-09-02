@@ -5,7 +5,7 @@
                `+oooo:                   Username: N1709
               `+oooooo:                  Brain: 1.00 MiB / 1.00 MiB (100%)
               -+oooooo+:                 Uptime: 99% (patched daily with coffee)
-            `/:-:++oooo+:                Environment: Linux, git, github, vscode, routeros, mio-kitchen, godot, blender
+            `/:-:++oooo+:                Environment: Linux, git, github, vscode, routeros, mio-kitchen, godot
            `/++++/+++++++:               OS (PC): Arch Linux (Daily use), Tinny 10 (Practical use)
           `/++++++++++++++:              OS (Mobile): Android 17 (Daily use)
          `/+++ooooooooooooo/`            Battery (Human): 10% [running on caffeine, refusing to sleep]

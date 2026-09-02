@@ -20,4 +20,4 @@
 .`                                 `/
 ```
 
-<!-- "Hey, man. For some people, the days and nights can feel heavy — whether due to specific problems or other issues. I feel that way too. I often see myself as a fool who often lacks self-confidence. Sometimes, I hide my exhaustion behind upbeat, energetic music, just to keep moving. But when it's quiet, I prefer the stillness of the night; in that silence, I like listening to music. And don't forget to keep your spirits up. -->
+<!-- Hey, man. For some people, the days and nights can feel heavy — whether due to specific problems or other issues. I feel that way too. I often see myself as a fool who often lacks self-confidence. Sometimes, I hide my exhaustion behind upbeat, energetic music, just to keep moving. But when it's quiet, I prefer the stillness of the night; in that silence, I like listening to music. And don't forget to keep your spirits up. -->

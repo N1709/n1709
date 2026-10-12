@@ -1,7 +1,7 @@
 ```
                   -`                     n1709@github
                  .o+`                    ---------------
-                `ooo/                    Name: Kentaro Aldanatien Ramadhan (Human)
+                `ooo/                    Full Name: Kentaro Aldanatien Ramadhan (Human)
                `+oooo:                   Username: N1709
               `+oooooo:                  Brain: 1.00 MiB / 1.00 MiB (100%)
               -+oooooo+:                 Uptime: 99% (patched daily with coffee)
